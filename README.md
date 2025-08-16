@@ -1,4 +1,4 @@
-# FIFO-LIFO Visualizer
+# LIFO-FIFO Visualizer
 
 **Developed by:**  
 - Iffath Sanjida [232-115-222] (Stack Module)  
