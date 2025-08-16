@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-The **FIFO-LIFO Visualizer** is a **Java Swing application** that provides an interactive and visual representation of two fundamental data structures: **Stack (LIFO)** and **Queue (FIFO)**. Users can perform operations like **push/pop** for stacks and **enqueue/dequeue** for queues while observing animations that illustrate how these structures work internally.
+The **LIFO-FIFO Visualizer** is a **Java Swing application** that provides an interactive and visual representation of two fundamental data structures: **Stack (LIFO)** and **Queue (FIFO)**. Users can perform operations like **push/pop** for stacks and **enqueue/dequeue** for queues while observing animations that illustrate how these structures work internally.
 
 ---
 
